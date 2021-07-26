@@ -1,0 +1,3 @@
+pyTelegramBotAPI 
+yandex-music
+mutagen
